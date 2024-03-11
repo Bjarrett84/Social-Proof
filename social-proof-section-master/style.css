@@ -1,0 +1,31 @@
+body {
+  box-sizing: border-box;
+}
+
+h1 {
+  color: hsl(300, 43%, 22%);
+}
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+
+.customer {
+  display: flex;
+  justify-content: space-between;
+  background-color: hsl(300, 43%, 22%);
+  color: white;
+}
+
+.ratings {
+  display: flex;
+  justify-content: flex-end;
+}
+
+img {
+  border-radius: 50%;
+}
